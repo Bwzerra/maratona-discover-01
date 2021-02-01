@@ -4,6 +4,7 @@
    --green: #49AA26;
    --light-green: #3dd705;
    --red: #e92929;
+
 }
 
 * {
@@ -268,7 +269,7 @@ input {
    margin-top: 0.8rem;
 }
 
-.input-group small {
+.input-group .help {
    opacity: 0.4;
 }
 
